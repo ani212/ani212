@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://aniisokay-website.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-aniisokay--website.vercel.app-7c3aed?style=for-the-badge&labelColor=0a0a1a" alt="Portfolio" /></a>
-  <a href="mailto:iamaniket76@gmail.com"><img src="https://img.shields.io/badge/📧_Email-iamaniket76@gmail.com-06b6d4?style=for-the-badge&labelColor=0a0a1a" alt="Email" /></a>
-  <a href="https://github.com/ani212"><img src="https://img.shields.io/badge/GitHub-ani212-white?style=for-the-badge&logo=github&labelColor=0a0a1a" alt="GitHub" /></a>
+  <a href="https://aniisokay-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-aniisokay--website.vercel.app-7c3aed?style=for-the-badge&labelColor=0a0a1a" alt="Portfolio" /></a>
+  <a href="mailto:iamaniket76@gmail.com" target="_blank"><img src="https://img.shields.io/badge/📧_Email-iamaniket76@gmail.com-06b6d4?style=for-the-badge&labelColor=0a0a1a" alt="Email" /></a>
+  <a href="https://github.com/ani212" target="_blank"><img src="https://img.shields.io/badge/GitHub-ani212-white?style=for-the-badge&logo=github&labelColor=0a0a1a" alt="GitHub" /></a>
 </p>
 
 <br/>
@@ -24,8 +24,6 @@
 
 <h2>🧠 &nbsp;About Me</h2>
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=ani212&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&icon_color=06b6d4&text_color=c4b5fd&ring_color=7c3aed" alt="GitHub Stats" />
-
 ```yaml
 name: Aniket Bhattacharjee
 role: Product Manager & AI Builder
@@ -37,8 +35,6 @@ focus:
   - Workflow Automation
 motto: "Ship products, not demos."
 ```
-
-<br clear="right"/>
 
 <br/>
 
@@ -56,10 +52,10 @@ motto: "Ship products, not demos."
 
 <h3 align="center">🔍 ProductLens AI</h3>
 <p align="center">
-  <a href="https://product-lens-ai-red.vercel.app/">
+  <a href="https://product-lens-ai-red.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/▶_LIVE_DEMO-7c3aed?style=for-the-badge&logoColor=white" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/ani212/ProductLens-AI">
+  <a href="https://github.com/ani212/ProductLens-AI" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source"/>
   </a>
 </p>
@@ -79,10 +75,10 @@ motto: "Ship products, not demos."
 
 <h3 align="center">💡 Discovery AI</h3>
 <p align="center">
-  <a href="https://discovery-os-pi.vercel.app/">
+  <a href="https://discovery-os-pi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/▶_LIVE_DEMO-7c3aed?style=for-the-badge&logoColor=white" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/ani212/DiscoveryOS">
+  <a href="https://github.com/ani212/DiscoveryOS" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source"/>
   </a>
 </p>
@@ -104,10 +100,10 @@ motto: "Ship products, not demos."
 
 <h3 align="center">🔥 Resume Roaster</h3>
 <p align="center">
-  <a href="https://resume-roaster-silk.vercel.app/">
+  <a href="https://resume-roaster-silk.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/▶_LIVE_DEMO-7c3aed?style=for-the-badge&logoColor=white" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/ani212/Resume-Roaster">
+  <a href="https://github.com/ani212/Resume-Roaster" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source"/>
   </a>
 </p>
@@ -126,10 +122,10 @@ motto: "Ship products, not demos."
 
 <h3 align="center">🍳 Raw — Resume Hell's Kitchen</h3>
 <p align="center">
-  <a href="https://raw-olive.vercel.app/">
+  <a href="https://raw-olive.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/▶_LIVE_DEMO-7c3aed?style=for-the-badge&logoColor=white" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/ani212/Raw">
+  <a href="https://github.com/ani212/Raw" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source"/>
   </a>
 </p>
@@ -218,25 +214,6 @@ motto: "Ship products, not demos."
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━ ACTIVITY ━━━━━━━━━━━━━━━━━━━━ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=2" width="100%"/>
-
-<br/>
-
-<h2>📊 &nbsp;GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ani212&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=7c3aed&fire=06b6d4&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6b7280&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani212&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&text_color=c4b5fd" alt="Top Languages" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ani212&theme=react-dark&hide_border=true&bg_color=0a0a1a&color=c4b5fd&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed" width="98%" alt="Contribution Graph" />
-</p>
-
-<br/>
-
 <!-- ━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=2" width="100%"/>
@@ -248,9 +225,9 @@ motto: "Ship products, not demos."
 </p>
 
 <p align="center">
-  <a href="https://aniisokay-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logoColor=white" /></a>&nbsp;
-  <a href="mailto:iamaniket76@gmail.com"><img src="https://img.shields.io/badge/Email_Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/ani212"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://aniisokay-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="mailto:iamaniket76@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/ani212" target="_blank"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
