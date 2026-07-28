@@ -39,7 +39,7 @@ motto: "Ship products, not demos."
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━ PROJECTS ━━━━━━━━━━━━━━━━━━━━ -->
-
+<!--
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=2" width="100%"/>
 
 <br/>
