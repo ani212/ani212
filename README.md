@@ -168,7 +168,7 @@ motto: "Ship products, not demos."
   <br/>
   <img width="60" src="https://img.icons8.com/nolan/96/binoculars.png" alt="Intelligence"/>
   <br/><br/>
-  <strong>What are competitors doing?</strong>
+  <strong>What are competitors doing??</strong>
   <br/>
   <sub>ProductLens AI</sub>
   <br/><br/>
